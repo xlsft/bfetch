@@ -7,7 +7,7 @@ Ported to brainf**k from: [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sy
 Debian-based systems
 ```bash
 sudo apt install bf
-git clone https://github.com/xlsft/bfetch
+git clone https://github.com/xlsft/bfetch.git
 cd bfetch
 ```
 
