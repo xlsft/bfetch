@@ -2,7 +2,7 @@
 
 Ported to brainf**k from: [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfetch)
 
-### Instalation
+### Installation
 
 Debian-based systems
 ```bash
