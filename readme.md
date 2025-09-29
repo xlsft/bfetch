@@ -1,6 +1,7 @@
 # ✨ BFetch - fast system fetch written in brainf**k
 
 Ported to brainf**k from: [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfetch)
+Mentioned in [Awesome Fetch list](https://github.com/beucismis/awesome-fetch)
 
 ### Installation
 
