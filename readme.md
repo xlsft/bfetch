@@ -1,6 +1,6 @@
 # ✨ BFetch - fast system fetch written in brainf**k
 
-[![Mentioned in Awesome Fetch](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-nodejs)
+[![Mentioned in Awesome Fetch](https://awesome.re/mentioned-badge.svg)](https://github.com/beucismis/awesome-fetch)
 
 Ported to brainf**k from: [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfetch)
 
